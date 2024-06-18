@@ -1,6 +1,6 @@
 # Sistema de roteamento de mensagens RabbitMQ
 
-Este repositório contém um sistema de roteamento de mensagens baseado em RabbitMQ com o intuito de simplificar a criação de produtor(Producer), consumidor(Consumer), fila (Queue) e Exchange.
+Este repositório contém um sistema de roteamento de mensagens baseado em RabbitMQ com o intuito de mostrar de forma simplificada a criação de produtor(Producer), consumidor(Consumer), fila (Queue) e Exchange.
 
 ## Visão geral
 
